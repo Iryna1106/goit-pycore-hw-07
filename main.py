@@ -7,7 +7,7 @@ from contacts.record import *
 
 def main():
     book=AddressBook()
-    print("Welcome to the assistant bot!")
+    print("Welcome to an assistant bot!")
     while True:
         try:
             user_input = input("Enter a command: ")
